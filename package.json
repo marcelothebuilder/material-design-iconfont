@@ -1,0 +1,20 @@
+{
+  "name": "material-design-iconfont",
+  "version": "3.0.0",
+  "description": "Material Design icons by Google",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcelothebuilder/material-design-iconfont"
+  },
+  "keywords": [
+    "icons",
+    "material",
+    "material-design",
+    "iconfont"
+    "google"
+  ],
+  "author": "Material Design Authors",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/google/material-design-icons",
+}

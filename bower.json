@@ -1,0 +1,14 @@
+{
+  "name": "material-design-iconfont",
+  "author": "Material Design Authors",
+  "description": "Material Design icons by Google",
+  "keywords": [
+    "icons",
+    "material",
+    "material-design",
+    "google"
+  ],
+  "main": "iconfont/material-icons.css",
+  "license": "Apache-2.0",
+  "homepage": "http://google.com/design/spec"
+}
